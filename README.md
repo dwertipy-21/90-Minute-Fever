@@ -227,4 +227,4 @@ You need at least Windows XP SP2, 1 GB RAM, and 500 MB of free storage space to 
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-15 07:04:20 UTC
+**Last updated:** 2026-10-15 13:08:27 UTC
